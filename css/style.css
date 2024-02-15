@@ -123,11 +123,9 @@ body {
     }
 
     .testimonial:nth-child(5) {
-
         grid-column: 4;
         grid-row: 1;
         grid-row-end: 3;
-
     }
 
     .grid-col-span-2 {
